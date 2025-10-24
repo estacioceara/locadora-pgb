@@ -25,7 +25,8 @@
     <div class="d-flex justify-content-between align-items-center">
         <h2 class="mt-3">Clientes</h2>
         <div>
-            <a href="#add-cliente" data-bs-toggle="offcanvas" class="btn btn-dark">Novo Cliente</a>
+            <a href="#add-cliente" 
+               data-bs-toggle="offcanvas" class="btn btn-dark">Novo Cliente</a>
         </div>
     </div>
 
@@ -36,7 +37,36 @@
             </h5>
         </div>
         <div class="offcanvas-body">
-            O formulario vai aqui
+            <form action="">
+                <label for="nome">Nome</label>
+                <input type="text" id="nome" 
+                       placeholder="Digite aqui" 
+                       class="form-control mb-3">
+
+                <label for="cpf">CPF</label>
+                <input type="text" id="cpf" 
+                       placeholder="Digite aqui" 
+                       class="form-control mb-3">
+
+                <label for="endereco">Endereço</label>
+                <input type="text" id="endereco" 
+                       placeholder="Digite aqui" 
+                       class="form-control mb-3">
+
+                <label for="telefone">Telefone</label>
+                <input type="text" id="telefone" 
+                       placeholder="Digite aqui" 
+                       class="form-control mb-3">
+                
+                <label for="foto">Foto</label>
+                <input type="file" id="foto" 
+                       class="form-control mb-3">
+
+                    
+                <button class="btn btn-dark w-100">
+                    PRONTO
+                </button>
+            </form>
         </div>
     </div>
 
