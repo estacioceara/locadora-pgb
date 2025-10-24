@@ -1,4 +1,4 @@
-# Bodega Parangaba
+# Locadora Parangaba
 
 ## Trabalho Final
 
