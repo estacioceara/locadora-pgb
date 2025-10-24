@@ -193,9 +193,160 @@ Notas {
 <details>
 <summary>Equipe 01</summary>
 <ul>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>pedro arthur mesquita 202503436398</li>
+<li>Ruan Albuquerque Gomes 202504571132</li>
+<li>Não tem</li>
+<li>Não tem</li>
+</ul>
+</details>
+
+<details>
+<summary>Equipe 02</summary>
+<ul>
+<li>Emilly Keyla Batista Neves - 202504601449</li>
+<li>Matheus Vinícius Lopes de Castro - 202504600914</li>
+<li>Iarlley gabriel silveira de souza - 202503682161</li>
+<li>Francisco Mateus Marques Martins - 202502370512</li>
+</ul>
+</details>
+
+<details>
+<summary>Equipe 03</summary>
+<ul>
+<li>João Guilherme Gomes Medeiros - 202504600507</li>
+<li>José Rubens Almeida Araújo Neto - 202502612532</li>
+<li>Saymon Madson dos Santos Brito - 202502274653</li>
+<li>Matheus Freire Costa - 202502873841</li>
+</ul>
+</details>
+
+<details>
+<summary>Equipe 04</summary>
+<ul>
+<li>Allyson Cardoso da Silva filho - 202502601212</li>
+<li>Ana Livia Dias Almeida - 202502264641</li>
+<li>Mark César Lima de Souza - 202502527136</li>
+<li>João Batista Nunes Neto - 202502498942</li>
+</ul>
+</details>
+
+<details>
+<summary>Equipe 16</summary>
+<ul>
+<li>Leonardo Menezes de Oliveira 202502564155</li>
+<li>Kauan Aguiar Clemente 202508268371</li>
+<li>Renan Alcântara de Lima 202502538821</li>
+<li>João Afonso Silva Brito da Mana Pereira Costa 202402371037</li>
+</ul>
+</details>
+
+
+<details>
+<summary>Equipe 06</summary>
+<ul>
+<li>guilherme dos santos lima - 202503228401</li>
+<li>moises jerônimo - 202503564761</li>
+<li>joão eduardo gonçalves de paula - 202504600884</li>
+<li>Davy rodrigues Araujo - 202502245203</li>
+</ul>
+</details>
+
+<details>
+<summary>Equipe 07</summary>
+<ul>
+<li>Luiz Fernandes de Araújo S. Marques - 202402709224</li>
+<li>Kauan Gabriel nome - 202502604114</li>
+<li>Brian Enzo Guedes Ferreira - 202502351615</li>
+<li>Cícera Jamylle dos Santos - 202503715025</li>
+</ul>
+</details>
+
+<details>
+<summary>Equipe 08</summary>
+<ul>
+<li>José Lucas Mendes - 202402217879</li>
+<li>João Mateus Mesquita - 202502334656</li>
+<li>João Victor da Costa Gomes - 202502546051</li>
+<li>Artur Alves Barbosa - 202502328508</li>
+</ul>
+</details>
+
+<details>
+<summary>Equipe 09</summary>
+<ul>
+<li>Gabriel Pereira 202502913753</li>
+<li>Gabriel Pires 202503139148</li>
+<li>Francisco Neto 202502269374</li>
+<li>Talisson Lima 202502512589</li>
+</ul>
+</details>
+
+<details>
+<summary>Equipe 10</summary>
+<ul>
+<li>Joao Gabriel Gordiano 202502970651</li>
+<li>Jadiel Almeida Nogueira 202502312377</li>
+<li>Gabriel Lucas Ricarte da Silva 202502227451</li>
+<li>Jhon pablo pierre uchoa carneiro 202502243057</li>
+</ul>
+</details>
+
+<details>
+<summary>Equipe 11</summary>
+<ul>
+<li>Marcela Tabosa Braga - 202503239185</li>
+<li>Larissa Oliveira Guimarães - 202503392961</li>
+<li>Yasmim Paiva de Araujo - 202502288921</li>
+<li>Victoria de Souza Melo - 202502414731</li>
+</ul>
+</details>
+
+<details>
+<summary>Equipe 12</summary>
+<ul>
+<li>Antonio Mateus Lima Santana - 202502274246</li>
+<li>Pedro José Farias Ribeiro - 202502286601</li>
+<li>Jean Carlos Lacerda Cavalcante - 202502342241</li>
+<li>João Guilherme Silvestre da Silva - 202503797366</li>
+</ul>
+</details>
+
+<details>
+<summary>Equipe 13</summary>
+<ul>
+<li>samuel mendes dos santos 202503298581</li>
+<li>Gabriel Dos Santos Costa 202503367401</li>
+<li>Francisco Edelly da Silva Nogueira 202502286971</li>
+<li>Pedro wilson Nunes silva 202502297513</li>
+</ul>
+</details>
+
+<details>
+<summary>Equipe 14</summary>
+<ul>
+<li>Lucas Alves de Deus - 202503067961</li>
+<li>Gustavo Sousa - 20230842017</li>
+<li>João Victor Araújo Soares - 202502327412</li>
+<li>Thiago Ferreira Paiva Lucas - 202503331502</li>
+</ul>
+</details>
+
+<details>
+<summary>Equipe 15</summary>
+<ul>
+<li>Josuelton Matias Peixoto - 202502282541</li>
+<li>Nicolas Dantas Queiroz e Silva - 202502337906</li>
+<li>Sarah Sombra Gondim - 202502626541</li>
+<li>Iorrana Vitória Linhares da Silva - 202504554441</li>
+</ul>
+</details>
+
+<details>
+<summary>Equipe 16</summary>
+<ul>
+<li>Guilherme Inácio Alexandre 202502520069</li>
+<li>Renan Nunes 202503734925</li>
+<li>Não tem</li>
+<li>Não tem</li>
 </ul>
 </details>
