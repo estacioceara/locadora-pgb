@@ -190,13 +190,14 @@ Notas {
 
 ### Equipes
 
+
 <details>
 <summary>Equipe 01</summary>
 <ul>
 <li>pedro arthur mesquita 202503436398</li>
 <li>Ruan Albuquerque Gomes 202504571132</li>
-<li>Não tem</li>
-<li>Não tem</li>
+<li>Vitória de Paula Nascimento 202503774803</li>
+<li>Cauan Rocha Duarte de Matos 202502504519</li>
 </ul>
 </details>
 
@@ -231,7 +232,7 @@ Notas {
 </details>
 
 <details>
-<summary>Equipe 16</summary>
+<summary>Equipe 05</summary>
 <ul>
 <li>Leonardo Menezes de Oliveira 202502564155</li>
 <li>Kauan Aguiar Clemente 202508268371</li>
@@ -239,7 +240,6 @@ Notas {
 <li>João Afonso Silva Brito da Mana Pereira Costa 202402371037</li>
 </ul>
 </details>
-
 
 <details>
 <summary>Equipe 06</summary>
@@ -340,6 +340,7 @@ Notas {
 <li>Iorrana Vitória Linhares da Silva - 202504554441</li>
 </ul>
 </details>
+
 
 <details>
 <summary>Equipe 16</summary>
