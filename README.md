@@ -190,4 +190,12 @@ Notas {
 
 ### Equipes
 
-  
+<details>
+<summary>Equipe 01</summary>
+<ul>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ul>
+</details>
