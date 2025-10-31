@@ -351,3 +351,13 @@ Notas {
 <li>Não tem</li>
 </ul>
 </details>
+
+<details>
+  <summary>Equipe 17</summary>
+  <ul>
+    <li>Gabriel Alves de Alencar 202403431564</li>
+    <li>João Vitor Barroso de Andrade 202502270283</li>
+    <li>Paulo Renan de Souza Abreu 202503849561</li>	
+    <li>Claudio Igor Araujo Rodrigues 202502270861</li>
+  </ul>
+</details>
