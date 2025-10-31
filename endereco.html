@@ -29,9 +29,9 @@
     const INPUT_ESTADO = document.getElementById("estado");
 
     function buscarEndereco() {
-        let url = `https://viacep.com.br/ws/${INPUT_CEP.value}/json`;
+        let cep = INPUT_CEP.value;
         
-        fetch(url)
+        fetch(`https://viacep.com.br/ws/${cep}/json`)
             .then(res => res.json())
             .then(dados => {
                 INPUT_LOGRADOURO.value = dados.logradouro;
@@ -39,7 +39,5 @@
                 INPUT_CIDADE.value = dados.localidade;
                 INPUT_ESTADO.value = dados.estado;
             });
-
-        
     }
 </script>
