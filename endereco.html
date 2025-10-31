@@ -1,0 +1,45 @@
+<h2>Informe seu Endereço</h2>
+<form action="">
+    <label for="cep">CEP</label>
+    <input onblur="buscarEndereco()" id="cep"><br>
+
+    <label for="logradouro">Logradouro</label>
+    <input id="logradouro"><br>
+
+    <label for="numero">Numero</label>
+    <input id="numero"><br>
+
+    <label for="bairro">Bairro</label>
+    <input id="bairro"><br>
+
+    <label for="cidade">Cidade</label>
+    <input id="cidade"><br>
+
+    <label for="estado">Estado</label>
+    <input id="estado"><br>
+
+    <button>Cadastrar</button>
+</form>
+
+<script>
+    const INPUT_CEP = document.getElementById("cep");
+    const INPUT_LOGRADOURO = document.getElementById("logradouro");
+    const INPUT_BAIRRO = document.getElementById("bairro");
+    const INPUT_CIDADE = document.getElementById("cidade");
+    const INPUT_ESTADO = document.getElementById("estado");
+
+    function buscarEndereco() {
+        let url = `https://viacep.com.br/ws/${INPUT_CEP.value}/json`;
+        
+        fetch(url)
+            .then(res => res.json())
+            .then(dados => {
+                INPUT_LOGRADOURO.value = dados.logradouro;
+                INPUT_BAIRRO.value = dados.bairro;
+                INPUT_CIDADE.value = dados.localidade;
+                INPUT_ESTADO.value = dados.estado;
+            });
+
+        
+    }
+</script>
